@@ -6,3 +6,16 @@ uvicorn[standard]
 psycopg2-binary
 sqlalchemy
 pydantic
+
+requests
+beautifulsoup4
+
+transformers
+onnxruntime
+numpy
+
+google-genai
+
+python-dotenv
+
+apscheduler
